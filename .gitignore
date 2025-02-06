@@ -54,6 +54,9 @@ nunit-*.xml
 [Rr]eleasePS/
 dlldata.c
 
+# The temp folders should also be ignored, volkan the dev-ops engineer
+temporary/
+
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 
